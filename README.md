@@ -8,7 +8,7 @@ $ pip install pipenv
 ```
 
 
-# Setup pyhton requirements
+# Setup python requirements
 
 ```commandline
 $ pipenv install
